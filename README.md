@@ -112,4 +112,4 @@ Check the applicable hackathon rules before publishing solution code, answer fil
 
 Developed as a semiconductor wafer defect pattern detection project.
 
-# wafer-defect-pattern-detection
+
