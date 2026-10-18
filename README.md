@@ -1,3 +1,4 @@
+
 # Wafer Defect Pattern Detection
 
 An algorithmic project for identifying and analyzing defect patterns in semiconductor wafers using defect coordinates and statistical techniques.
@@ -110,3 +111,5 @@ Check the applicable hackathon rules before publishing solution code, answer fil
 ## Author
 
 Developed as a semiconductor wafer defect pattern detection project.
+
+# wafer-defect-pattern-detection
