@@ -1,0 +1,4 @@
+processID,patternName,bucket,processScope,lotSupport,totalLots,supportingLots,lotTrend
+CLEAN_04,Cluster,Q1,Process,3,4,LOT_02;LOT_24;LOT_15,Stable
+CLEAN_04,Ring,Outer,Process,4,4,LOT_02;LOT_24;LOT_62;LOT_15,Increasing
+CLEAN_04,Scratch,H,NotAcrossProcess,0,4,,N/A

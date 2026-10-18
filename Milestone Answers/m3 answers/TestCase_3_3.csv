@@ -1,0 +1,2 @@
+lotID,patternName,bucket,scope,waferSupport,totalWafers,isRecurring,supportingWafers
+T3,Cluster,Q3,Lot,20,20,Yes,C_W1;C_W2;C_W3;C_W4;C_W5;C_W6;C_W7;C_W8;C_W9;C_W10;C_W11;C_W12;C_W13;C_W14;C_W15;C_W16;C_W17;C_W18;C_W19;C_W20

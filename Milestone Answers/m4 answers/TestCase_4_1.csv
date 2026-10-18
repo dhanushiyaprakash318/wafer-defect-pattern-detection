@@ -1,0 +1,2 @@
+processID,patternName,bucket,processScope,lotSupport,totalLots,supportingLots,lotTrend
+ETCH_03,Ring,Mid,Process,3,3,LOT_32;LOT_25;LOT_46,Increasing

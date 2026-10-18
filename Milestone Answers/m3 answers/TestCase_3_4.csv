@@ -1,0 +1,7 @@
+lotID,patternName,bucket,scope,waferSupport,totalWafers,isRecurring,supportingWafers
+T4,Cluster,Q1,Wafer,1,6,No,D_W2
+T4,Cluster,Q2,Wafer,1,6,No,D_W4
+T4,Ring,Inner,Wafer,1,6,No,D_W3
+T4,Ring,Outer,Wafer,1,6,No,D_W6
+T4,Scratch,D2,Wafer,1,6,No,D_W1
+T4,Scratch,H,Wafer,1,6,No,D_W5

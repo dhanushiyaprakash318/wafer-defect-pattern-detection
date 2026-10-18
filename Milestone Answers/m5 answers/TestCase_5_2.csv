@@ -1,0 +1,13 @@
+cliqueID,memberOrder,patternName,bucket
+C1,1,Cluster,Q1
+C1,2,Ring,Outer
+C1,3,Scratch,V
+C2,1,Cluster,Q2
+C2,2,EdgeRing,
+C2,3,Scratch,H
+C3,1,Cluster,Q3
+C3,2,EdgeRing,
+C3,3,Ring,Inner
+C4,1,Cluster,Q4
+C4,2,Ring,Outer
+C4,3,Scratch,D2

@@ -1,0 +1,2 @@
+lotID,patternName,bucket,scope,waferSupport,totalWafers,isRecurring,supportingWafers
+T2,Scratch,D1,Lot,12,12,Yes,B_W1;B_W2;B_W3;B_W4;B_W5;B_W6;B_W7;B_W8;B_W9;B_W10;B_W11;B_W12

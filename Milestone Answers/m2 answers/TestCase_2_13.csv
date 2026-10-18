@@ -1,0 +1,5 @@
+waferID,patternID,patternName,bucket
+T13,T13-C1,Cluster,Q4
+T13,T13-ER1,EdgeRing,
+T13,T13-R1,Ring,Inner
+T13,T13-S1,Scratch,H

@@ -1,0 +1,2 @@
+lotID,patternName,bucket,scope,waferSupport,totalWafers,isRecurring,supportingWafers
+T1,Ring,Mid,Lot,8,8,Yes,A_W1;A_W2;A_W3;A_W4;A_W5;A_W6;A_W7;A_W8

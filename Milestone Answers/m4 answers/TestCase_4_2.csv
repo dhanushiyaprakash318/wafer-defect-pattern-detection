@@ -1,0 +1,3 @@
+processID,patternName,bucket,processScope,lotSupport,totalLots,supportingLots,lotTrend
+ETCH_03,Scratch,D1,Process,3,3,LOT_60;LOT_45;LOT_33,Decreasing
+LITHO_02,Cluster,Q3,Process,3,3,LOT_17;LOT_98;LOT_81,Stable

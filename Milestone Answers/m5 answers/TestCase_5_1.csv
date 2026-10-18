@@ -1,0 +1,13 @@
+patternA,patternA_Bucket,patternB,patternB_Bucket
+Cluster,Q1,Ring,Outer
+Cluster,Q1,Scratch,V
+Cluster,Q2,EdgeRing,
+Cluster,Q2,Scratch,H
+Cluster,Q3,EdgeRing,
+Cluster,Q3,Ring,Inner
+Cluster,Q4,Ring,Outer
+Cluster,Q4,Scratch,D2
+EdgeRing,,Ring,Inner
+EdgeRing,,Scratch,H
+Ring,Outer,Scratch,D2
+Ring,Outer,Scratch,V

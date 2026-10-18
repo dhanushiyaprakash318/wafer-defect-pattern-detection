@@ -1,0 +1,5 @@
+processID,patternName,bucket,processScope,lotSupport,totalLots,supportingLots,lotTrend
+DEPOSIT_05,Cluster,Q2,Process,3,3,LOT_65;LOT_28;LOT_53,Stable
+DEPOSIT_05,EdgeRing,,Process,3,3,LOT_65;LOT_28;LOT_53,Increasing
+DEPOSIT_05,Ring,Outer,Process,3,3,LOT_65;LOT_28;LOT_53,Fluctuating
+DEPOSIT_05,Scratch,H,Process,3,3,LOT_65;LOT_28;LOT_53,Decreasing
